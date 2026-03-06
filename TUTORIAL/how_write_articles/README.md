@@ -1,10 +1,3 @@
--------------
-Id: TUTORIAL/how_write_articles   
-Name: How write articles    
-Description: Как писать статьи  
-Lemmas: ["md", "mardown", "tutorial"]   
--------------
-
 # Статья пример
 ### 1. Заголовки
 Один # — самый большой (уровень 1), шесть ###### — самый 
