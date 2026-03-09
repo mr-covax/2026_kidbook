@@ -1,6 +1,6 @@
 # [Гигиена и уход за собой](./index.md)
 
-<img src="../Attachments/hygiene_main.png" align="right" width="300" alt="Чистота и здоровье" style="margin-left: 20px; margin-bottom: 20px;">
+<img src="Attachments/shower_supplies.png" align="right" width="300" alt="Чистота и здоровье" style="margin-left: 20px; margin-bottom: 20px;">
 
 **Раздел:** 3.1. Здоровый образ жизни  
 **Всего статей:** 24  
