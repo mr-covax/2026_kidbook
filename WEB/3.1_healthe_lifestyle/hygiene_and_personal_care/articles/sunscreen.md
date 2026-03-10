@@ -3,7 +3,7 @@
 <img src="../Attachments/sunscreen.png" align="right" width="300" alt="Защита от солнца" style="margin-left: 20px; margin-bottom: 20px;">
 
 **ID:** `sunscreen`  
-**WikiData:** [Q827657](https://www.wikidata.org/wiki/Q827657)  
+**WikiData:** [Q827658](https://www.wikidata.org/wiki/Q827658)  
 **Раздел:** 3.1. Здоровый образ жизни
 
 
