@@ -159,8 +159,8 @@ def main():
     with open(concepts_file, 'r', encoding='utf-8') as f:
         concepts_data = json.load(f)
 
-    articles_dir = '../../../WEB/14_team/rights_and_responsibilities/articles'
-    images_dir = '../../../WEB/14_team/rights_and_responsibilities/images'
+    articles_dir = '../../../../WEB/2.1_society/rights_and_responsibilities/articles'
+    images_dir = '../../../../WEB/2.1_society/rights_and_responsibilities/images'
 
     os.makedirs(articles_dir, exist_ok=True)
     os.makedirs(images_dir, exist_ok=True)

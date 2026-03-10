@@ -110,7 +110,7 @@ def insert_links(text, concepts):
 
 def main():
     concepts_file = '../concepts.json'
-    articles_dir = '../../../WEB/14_team/rights_and_responsibilities/articles'
+    articles_dir = '../../../../WEB/2.1_society/rights_and_responsibilities/articles'
 
     if not os.path.exists(concepts_file):
         print(f"❌ Файл {concepts_file} не найден!")

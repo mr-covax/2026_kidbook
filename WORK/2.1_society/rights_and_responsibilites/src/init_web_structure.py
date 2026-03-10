@@ -9,7 +9,7 @@ def create_web_structure():
     with open(concepts_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
     
-    web_base = '../../../WEB/14_team/rights_and_responsibilities'
+    web_base = '../../../../WEB/2.1_society/rights_and_responsibilities'
     articles_dir = os.path.join(web_base, 'articles')
     images_dir = os.path.join(web_base, 'images')
     
@@ -25,7 +25,7 @@ def create_web_structure():
 
 
 def create_index_md(data):
-    web_base = '../../../WEB/14_team/rights_and_responsibilities'
+    web_base = '../../../../WEB/2.1_society/rights_and_responsibilities'
     
     table_rows = []
     for i, concept in enumerate(data['concepts'], 1):
@@ -71,7 +71,7 @@ def create_index_md(data):
 
 
 def create_glossary_md(data):
-    web_base = '../../../WEB/14_team/rights_and_responsibilities'
+    web_base = '../../../../WEB/2.1_society/rights_and_responsibilities'
     
     table_rows = []
     for concept in sorted(data['concepts'], key=lambda x: x['label']):
