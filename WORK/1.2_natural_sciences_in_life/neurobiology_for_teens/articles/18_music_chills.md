@@ -79,7 +79,7 @@
 <p align="center">
   <img src="../images/auditory_cortex_and_reward_system.png" width="550">
   <br>
-  <em>Видишь, тут нужны мурашки</em>
+  <em>Видишь, пора включать мурашки</em>
 </p>
 
 ---
