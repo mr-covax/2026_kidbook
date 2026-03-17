@@ -20,7 +20,7 @@
 Проще говоря, мозг буквально перестраивает сам себя, когда ты учишься.
 
 <p align="center">
-  <img src="images/neuroplasticity_1.png" width="500"/>
+  <img src="images/neuroplasticity_1.png" width="500"/><br>,
 </p>
 
 ## Как нейроны «разговаривают»
@@ -53,7 +53,7 @@
 Но при повторении связь усиливается.
 
 <p align="center">
-  <img src="images/neuroplasticity_2.png" width="500"/>
+  <img src="images/neuroplasticity_2.png" width="500"/><br>,
 </p>
 
 ## Почему повторение так важно
@@ -83,7 +83,7 @@
 - навыки можно развивать постоянно.
 
 <p align="center">
-  <img src="images/neuroplasticity_3.png" width="500"/>
+  <img src="images/neuroplasticity_3.png" width="500"/><br>,
 </p>
 
 ## Почему это важно
