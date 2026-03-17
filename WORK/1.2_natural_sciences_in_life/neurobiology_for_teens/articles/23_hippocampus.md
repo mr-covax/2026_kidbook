@@ -75,7 +75,7 @@
 Этот случай показал, насколько важен гиппокамп для памяти.
 
 <p align="center">
-  <img src="../images/hippocampus_3.png" width="700"/><br>,
+  <img src="../images/hippocampus_3.png" width="550"/><br>,
 </p>
 
 ## Почему это важно
