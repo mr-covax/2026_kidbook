@@ -73,7 +73,7 @@
 ---
 
 <p align="center">
-  <img src="../images/memory_long_term.png" width="550"><br>
+  <img src="../images/memory_long_term.png" width="800"><br>
   <em>Долговременная память — это «архив» знаний, навыков и воспоминаний</em>
 </p>
 
