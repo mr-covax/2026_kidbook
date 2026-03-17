@@ -15,7 +15,7 @@
 Это описывает так называемая кривая забывания.
 
 <p align="center">
-  <img src="../images/forgetting_curve_1.png" width="500"/>
+  <img src="../images/forgetting_curve_1.png" width="600"/><br>,
 </p>
 
 Сразу после изучения:
@@ -48,7 +48,7 @@
 - каждый раз перед тем, как начать забывать.
 
 <p align="center">
-  <img src="../images/forgetting_curve_2.png" width="800"/>
+  <img src="../images/forgetting_curve_2.png" width="800"/><br>,
 </p>
 
 Например:
@@ -83,7 +83,7 @@
 Результат будет намного лучше.
 
 <p align="center">
-  <img src="../images/forgetting_curve_3.png" width="800"/>
+  <img src="../images/forgetting_curve_3.png" width="800"/><br>,
 </p>
 
 ## Почему это важно
