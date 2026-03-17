@@ -80,6 +80,30 @@
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/02_neuron_main_cell.md",
       "wikidata_id": "Q43054",
       "author": "Кунавин Кирилл"
+    },
+    {
+      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/03_nervous_system_map",
+      "description": "Статья о том, как устроена нервная система человека: что входит в центральную и периферическую нервную систему, как связаны мозг, спинной мозг и нервы, и почему спинной мозг так важен для передачи сигналов и рефлексов.",
+      "lemmas": [
+        "нервная система",
+        "центральная нервная система",
+        "периферическая нервная система",
+        "цнс",
+        "пнс",
+        "головной мозг",
+        "спинной мозг",
+        "нервы",
+        "рефлекс",
+        "чувствительные нервы",
+        "двигательные нервы",
+        "передача сигнала",
+        "организм",
+        "реакция на опасность"
+      ],
+      "name": "Карта нервной системы",
+      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/03_nervous_system_map.md",
+      "wikidata_id": "Q83087",
+      "author": "Кунавин Кирилл"
     }
   ]
 }
