@@ -15,7 +15,7 @@
 Это описывает так называемая кривая забывания.
 
 <p align="center">
-  <img src="WORK/1.2_natural_sciences_in_life/neurobiology_for_teens/images/forgetting_curve_1.png" width="500"/>
+  <img src=".../images/forgetting_curve_1.png" width="500"/>
 </p>
 
 Сразу после изучения:
