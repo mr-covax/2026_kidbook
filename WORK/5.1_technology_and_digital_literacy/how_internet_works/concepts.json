@@ -312,7 +312,7 @@
       "description": "Последняя часть доменного имени (.ru, .com, .org), указывающая на страну или тип организации",
       "lemmas": ["TLD", "домен верхнего уровня", ".ru", ".com", ".org", "зона", "gTLD"],
       "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/dns/domains.md",
-      "wikidata_id": "Q14699640",
+      "wikidata_id": "Q14296",
       "author": "Сетраков Федор"
     },
     {
@@ -321,7 +321,7 @@
       "description": "Запись в базе DNS, связывающая домен с адресом или другой информацией (A, AAAA, CNAME, MX, TXT)",
       "lemmas": ["DNS-запись", "A-запись", "AAAA", "CNAME", "MX", "TXT", "запись DNS"],
       "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/dns/dns.md",
-      "wikidata_id": "Q8767",
+      "wikidata_id": "Q56098605",
       "author": "Сетраков Федор"
     },
     {
@@ -330,7 +330,7 @@
       "description": "Организация, управляющая корневыми DNS-серверами и распределением доменных зон верхнего уровня",
       "lemmas": ["ICANN", "регистратор", "корневой сервер"],
       "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/dns/dns.md",
-      "wikidata_id": "Q171578",
+      "wikidata_id": "Q485750",
       "author": "Сетраков Федор"
     },
     {
@@ -339,7 +339,7 @@
       "description": "Сеть доставки контента — группа серверов по всему миру, хранящих копии файлов сайта для быстрой отдачи пользователям",
       "lemmas": ["CDN", "сеть доставки контента", "Edge-сервер", "Origin", "кеш", "latency", "задержка", "Cloudflare", "Akamai"],
       "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/dns/cdn.md",
-      "wikidata_id": "Q1066783",
+      "wikidata_id": "Q72588",
       "author": "Сетраков Федор"
     },
     {
@@ -348,7 +348,7 @@
       "description": "Атака на сервер лавиной мусорных запросов с целью вывести его из строя",
       "lemmas": ["DDoS", "DDoS-атака", "атака", "трафик", "защита"],
       "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/dns/cdn.md",
-      "wikidata_id": "Q131257",
+      "wikidata_id": "Q17329819",
       "author": "Сетраков Федор"
     },
     {
