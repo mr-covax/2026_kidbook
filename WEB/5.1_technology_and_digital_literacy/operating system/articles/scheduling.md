@@ -79,3 +79,8 @@
 *   [Процессы](process.md)
 *   [Прерывания](interrupts.md)
 *   [Потоки выполнения](thread.md)
+
+---
+
+**Автор**: [Жаворонков Никита](https://github.com/Supertos)
+**LLM - Qwen3.5-Plus**
