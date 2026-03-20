@@ -117,3 +117,8 @@
 ## См. также
 *   [Прерывания](network_stack.md)
 *   [IPC](IPC.md)
+
+---
+[Автор](../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): [Жаворонков Никита](https://github.com/Supertos)
+
+*LLM - Qwen3.5-Plus*
